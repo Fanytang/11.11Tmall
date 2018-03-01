@@ -15,4 +15,4 @@ Js设置HTML的font size
 		}
 		else{document.querySelector('html').style.fontSize =window.screen.width/7.5+'px';}
 	}
-</script>
+</script>```
