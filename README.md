@@ -1,6 +1,6 @@
 # 11.11Tmall
 采用rem实现移动端双十一页面
-Js设置HTML的font size
+Js设置HTML的font size<br/>
 ```<script type="text/javascript">
 			(function() {
 				if(window.screen.width > 750) {
@@ -15,4 +15,4 @@ Js设置HTML的font size
 				}
 				else{document.querySelector('html').style.fontSize =window.screen.width/7.5+'px';}
 			}
-	</script>```
+</script>
