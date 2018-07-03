@@ -1,6 +1,7 @@
 # 11.11Tmall
 采用rem实现移动端双十一页面
 Js设置HTML的font size
+# 主要代码
 ```
 <script type="text/javascript">
 	(function() {
